@@ -1,0 +1,4 @@
+C:\Users\oliver\Documents\GitHub\SerialMonitor4Arduino\SerialMonitor4Arduino\bin\Release\SerialMonitor4Arduino.exe.config
+C:\Users\oliver\Documents\GitHub\SerialMonitor4Arduino\SerialMonitor4Arduino\bin\Release\SerialMonitor4Arduino.exe
+C:\Users\oliver\Documents\GitHub\SerialMonitor4Arduino\SerialMonitor4Arduino\obj\Release\SerialMonitor4Arduino.csprojResolveAssemblyReference.cache
+C:\Users\oliver\Documents\GitHub\SerialMonitor4Arduino\SerialMonitor4Arduino\obj\Release\SerialMonitor4Arduino.exe

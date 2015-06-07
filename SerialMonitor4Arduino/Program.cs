@@ -3,11 +3,8 @@
  * User: oliver
  * Date: 07/06/2015
  * Time: 13:50
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
-using System.Threading;
 using System.IO.Ports;
 
 namespace SerialMonitor4Arduino
@@ -19,12 +16,6 @@ namespace SerialMonitor4Arduino
 		static string parity;
 		static int dataBits;
 		static string stopBits;
-		
-		//Thread readThread;
-		//readThread = new Thread(); //PROVA: new Thread(Read)
-		
-		//initialize serial port
-		
 		
 		public static void Main()
 		{
@@ -267,7 +258,10 @@ namespace SerialMonitor4Arduino
 			{
 				serialPort.Open();
 				
-				Console.WriteLine("For quit the connection type exit.");
+				Console.WriteLine();
+				Console.WriteLine("To start reading type Enter.");
+				Console.WriteLine();
+				Console.WriteLine("To quit the connection type exit.");
 				if(Console.ReadLine() == "exit")
 				{
 				    Main();
