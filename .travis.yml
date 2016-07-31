@@ -1,5 +1,0 @@
-
-language: csharp
-solution: SerialMonitor4Arduino.sln
-mono: 
-  - latest
