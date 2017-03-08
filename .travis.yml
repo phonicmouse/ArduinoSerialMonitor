@@ -1,5 +1,2 @@
 language: csharp
 solution: SerialMonitor4Arduino.sln
-os: 
- - linux
- - osx
