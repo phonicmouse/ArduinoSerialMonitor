@@ -4,6 +4,7 @@
  * Date: 07/06/2015
  * Time: 13:50
  */
+ 
 using System;
 using System.IO.Ports;
 
@@ -22,7 +23,7 @@ namespace SerialMonitor4Arduino
 		    SerialPort serialPort;
 		    serialPort = new SerialPort();
 		    
-		    Console.WriteLine("Serial Monitor For Arduino V0.1");
+		    Console.WriteLine("Serial Monitor For Arduino V0.1.2");
 			
 			portSetup(serialPort);
 			

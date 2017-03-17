@@ -10,3 +10,9 @@ C:\Users\oliver\Documents\GitHub\SerialMonitor4Arduino\SerialMonitor4Arduino\bin
 C:\Users\oliver\Documents\GitHub\SerialMonitor4Arduino\SerialMonitor4Arduino\obj\Debug\SerialMonitor4Arduino.csprojResolveAssemblyReference.cache
 C:\Users\oliver\Documents\GitHub\SerialMonitor4Arduino\SerialMonitor4Arduino\obj\Debug\SerialMonitor4Arduino.exe
 C:\Users\oliver\Documents\GitHub\SerialMonitor4Arduino\SerialMonitor4Arduino\obj\Debug\SerialMonitor4Arduino.pdb
+C:\Users\Leonardo\Documents\GitHub\ArduinoSerialMonitor\SerialMonitor4Arduino\bin\Debug\SerialMonitor4Arduino.exe.config
+C:\Users\Leonardo\Documents\GitHub\ArduinoSerialMonitor\SerialMonitor4Arduino\bin\Debug\SerialMonitor4Arduino.exe
+C:\Users\Leonardo\Documents\GitHub\ArduinoSerialMonitor\SerialMonitor4Arduino\bin\Debug\SerialMonitor4Arduino.pdb
+C:\Users\Leonardo\Documents\GitHub\ArduinoSerialMonitor\SerialMonitor4Arduino\obj\Debug\SerialMonitor4Arduino.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Documents\GitHub\ArduinoSerialMonitor\SerialMonitor4Arduino\obj\Debug\SerialMonitor4Arduino.exe
+C:\Users\Leonardo\Documents\GitHub\ArduinoSerialMonitor\SerialMonitor4Arduino\obj\Debug\SerialMonitor4Arduino.pdb
