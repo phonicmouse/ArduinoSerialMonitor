@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EF9E94E8-F131-4AF7-B62A-636A8433CB81}|Default">
+  <MonoDevelop.Ide.ItemProperties.SerialMonitor4Arduino PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SerialMonitor4Arduino/Program.cs">
+    <Files>
+      <File FileName="SerialMonitor4Arduino/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

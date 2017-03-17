@@ -1,0 +1,8 @@
+/home/mono/Documenti/GitKraken/ArduinoSerialMonitor/SerialMonitor4Arduino/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/mono/Documenti/GitKraken/ArduinoSerialMonitor/SerialMonitor4Arduino/bin/Debug/SerialMonitor4Arduino.exe.config
+/home/mono/Documenti/GitKraken/ArduinoSerialMonitor/SerialMonitor4Arduino/bin/Debug/SerialMonitor4Arduino.exe.mdb
+/home/mono/Documenti/GitKraken/ArduinoSerialMonitor/SerialMonitor4Arduino/bin/Debug/SerialMonitor4Arduino.pdb
+/home/mono/Documenti/GitKraken/ArduinoSerialMonitor/SerialMonitor4Arduino/bin/Debug/SerialMonitor4Arduino.exe
+/home/mono/Documenti/GitKraken/ArduinoSerialMonitor/SerialMonitor4Arduino/obj/Debug/SerialMonitor4Arduino.exe
+/home/mono/Documenti/GitKraken/ArduinoSerialMonitor/SerialMonitor4Arduino/obj/Debug/SerialMonitor4Arduino.exe.mdb
+/home/mono/Documenti/GitKraken/ArduinoSerialMonitor/SerialMonitor4Arduino/obj/Debug/SerialMonitor4Arduino.pdb
